@@ -47,3 +47,5 @@ To run the NMT model, follow these steps:
 ### Requirements
 
 The notebook uses various Python libraries and dependencies. You can find the list of required libraries and their versions in the notebook itself.
+
+#### Do consider to star this project if you find it useful ⭐
